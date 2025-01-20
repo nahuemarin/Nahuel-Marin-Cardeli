@@ -58,9 +58,6 @@ teléfono o a traves de un mensaje directo por aquí.
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br><br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 <h3 align="left">Contactame:</h3>
 <p align="left">

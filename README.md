@@ -1,8 +1,6 @@
-# nahuemarin
-Sobre mí:
+# Hola!! Mi nombre es Nahuel Marín
 
-Hola!!
-Mi nombre es Nahuel Marín, un Full Stack Developer con formación en el Bootcamp de Henry con
+Un Full Stack Developer con formación en el Bootcamp de Henry con
 experiencia trabajando con NodeJs, Javascript, Typescript, Typeorm,
 Nestjs, Swagger, Html, Css, React, Express y PostgreSQL en trabajos
 tanto grupales como individuales. Además, estuve en proyectos

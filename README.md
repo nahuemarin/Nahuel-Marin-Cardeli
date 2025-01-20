@@ -34,8 +34,8 @@ Estoy en constante cambio aprendiendo de mis errores y siempre
 tratando de aplicar cosas nuevas e innovadoras.
 
 Si estás buscando un perfil ambicioso, perseverante y comprometido como
-el mío, no dudes en contactarme a través de mi mail, número de
-teléfono o a traves de un mensaje directo por aquí.
+el mío, no dudes en contactarme a través de mi mail o número de
+teléfono.
 ¡No te vas a arrepentir!
 
 - Número de Teléfono: 3625484016

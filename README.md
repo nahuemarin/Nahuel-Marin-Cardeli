@@ -46,8 +46,6 @@ teléfono o a traves de un mensaje directo por aquí.
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
-<hr width="36%" >
-
 <hr width="60%" >
 <h3 align="left">Contactame:</h3>
 <p align="left">

@@ -38,10 +38,6 @@ el mío, no dudes en contactarme a través de mi mail o número de
 teléfono.
 ¡No te vas a arrepentir!
 
-- Número de Teléfono: 3625484016
-- Mail: guatamarin@gmail.com
-
-
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
@@ -50,5 +46,7 @@ teléfono.
 <h3 align="left">Contactame:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nahuel-marin-cardeli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+- Número de Teléfono: 3625484016
+- Mail: guatamarin@gmail.com
 </p>
 <br>
